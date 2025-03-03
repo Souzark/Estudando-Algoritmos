@@ -1,4 +1,4 @@
-Algoritmo "Creuza04"
+Algoritmo "Creuza04"  dsa
 Var
    preco, imposto: Real
 
