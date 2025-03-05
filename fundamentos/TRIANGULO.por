@@ -5,7 +5,7 @@ L1, L2, L3: Real
 EQ, ES, TRI: Logico
 
 
-Inicio
+funcao Inicio
 escreva("Digite o primeio lado:")
 leia(L1)
 escreva("Digite o segundo lado:")
